@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conteudo>
+	<item id="0">
+		<nome>Setor de TI</nome>
+		<usuario>nox.ti</usuario>
+		<senha>40881759ffef584953a4d3c23f20328b</senha>
+		<email>ti@noxgr.com.br</email>
+		<cliente>Nox GR</cliente>
+		<tms>integrador</tms>
+	</item>
+	<item id="0">
+		<nome>Caio Loureiro</nome>
+		<usuario>caio</usuario>
+		<senha>40881759ffef584953a4d3c23f20328b</senha>
+		<email>ti@noxgr.com.br</email>
+		<cliente>Nox GR</cliente>
+		<tms>integrador</tms>
+	</item>
+</conteudo>

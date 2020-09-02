@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conteudo>
+	<item id="0">
+		<nome>Setor de TI</nome>
+		<usuario>nox.ti</usuario>
+		<senha>40881759ffef584953a4d3c23f20328b</senha>
+		<email>ti@noxgr.com.br</email>
+	</item>
+	<item id="1">
+		<nome>Caio Loureiro</nome>
+		<usuario>caio.loureiro</usuario>
+		<senha>f7f7dcd0f5969e1d8f97237845232b03</senha>
+		<email>ti@noxgr.com.br</email>
+	</item>
+</conteudo>

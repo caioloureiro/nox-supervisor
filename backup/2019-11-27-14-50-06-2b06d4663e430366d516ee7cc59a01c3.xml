@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conteudo>
+	<item id="0">
+		<nome>Setor de TI</nome>
+		<usuario>nox.ti</usuario>
+		<senha>40881759ffef584953a4d3c23f20328b</senha>
+		<email>ti@noxgr.com.br</email>
+	</item>
+	<item id="1">
+		<nome>Lucas Braga</nome>
+		<usuario>lucas.braga</usuario>
+		<senha>e10adc3949ba59abbe56e057f20f883e</senha>
+		<email>ti@noxgr.com.br</email>
+	</item>
+	<item id="2">
+		<nome>Caio Loureiro</nome>
+		<usuario>caio.loureiro</usuario>
+		<senha>senha_inexistente</senha>
+		<email>ti@noxgr.com.br</email>
+	</item>
+	<item id="3">
+		<senha>99b68fa341d5f135fad5eca57df055c4</senha>
+		<usuario>TOMBINI2</usuario>
+		<email>wagner.vieira@grupotombini.com.br</email>
+		<nome>Wagner Vieira Coelho</nome>
+	</item>
+	<item id="4">
+		<senha>c3e9d157db93fb7afa2aef48ca35ed37</senha>
+		<usuario>MAX</usuario>
+		<email>max@noxgr.com.br</email>
+		<nome>Max Rodrigues</nome>
+	</item>
+	<item id="5">
+		<senha>5551a5785a052d3c8173c99a01fb75c5</senha>
+		<usuario>TOMBINI</usuario>
+		<email>teste1@aviorlogistica.com.br</email>
+		<nome>Avior</nome>
+	</item>
+	<item id="6">
+		<senha>21d9e838545f412b3fc93398fd5e67e6</senha>
+		<usuario>DALCOQUIO</usuario>
+		<email>sistemas@dalcoquio.com.br</email>
+		<nome>Transportes Dalçoquio</nome>
+	</item>
+	<item id="7">
+		<senha>30efa249f20bcc02e8ee03f4f988c9f3</senha>
+		<usuario>TATICASSW</usuario>
+		<email>edi@ssw.inf.br</email>
+		<nome>Tatica Transportes</nome>
+	</item>
+	<item id="8">
+		<senha>9d6076527afaf405c93e0c27dbf1da44</senha>
+		<usuario>TAC</usuario>
+		<email>gledson.jose@tactransportes.com.br</email>
+		<nome>gledson</nome>
+	</item>
+	<item id="9">
+		<senha>e51a8e1a488cb4fae9e793f8220b10a7</senha>
+		<usuario>TRANSBEN</usuario>
+		<email>leandro.pereira@transben.com.br</email>
+		<nome>Leandro</nome>
+	</item>
+	<item id="10">
+		<senha>172ef1ba6ff66a4cf2645f5a195ed95a</senha>
+		<usuario>ISRAELNOX</usuario>
+		<email>israel.martins@j9ti.com.br</email>
+		<nome>Israel Martins</nome>
+	</item>
+	<item id="11">
+		<senha>383b33be6234dee810bcecf615c9076d</senha>
+		<usuario>GH</usuario>
+		<email>gustavo.neves@ghtransporte.com.br</email>
+		<nome>Gustavo Neves</nome>
+	</item>
+	<item id="12">
+		<senha>cf74c6e32219e991fb5d9e6477be68b8</senha>
+		<usuario>HAMMES</usuario>
+		<email>ti@noxgr.com.br</email>
+		<nome>Mateus - Hammes</nome>
+	</item>
+	<item id="13">
+		<senha>30ef0ad04157810d00aafc8a50d2c3b1</senha>
+		<usuario>TIAGO</usuario>
+		<email>tiago@tsltransportes.com</email>
+		<nome>TSL Transportes</nome>
+	</item>
+	<item id="14">
+		<senha>ed3deb27a97e74612f6332e074b2a835</senha>
+		<usuario>FLUORITA</usuario>
+		<email>logisticacri@fluorita.com.br</email>
+		<nome>Mateus - Fluorita</nome>
+	</item>
+	<item id="15">
+		<senha>e37251099dcc482e7bc4b77e3b6ccc25</senha>
+		<usuario>BENDINI</usuario>
+		<email>everton@transportesbendini.com.br</email>
+		<nome>Everton Bendini</nome>
+	</item>
+	<item id="16">
+		<senha>a42dec145e123bbc9a19905730829508</senha>
+		<usuario>JEFFERSON</usuario>
+		<email>jefferson@datatransp.com.br</email>
+		<nome>Jefferson Datatransp</nome>
+	</item>
+	<item id="17">
+		<senha>ebd1126219062ace188fb6b6ff43f13a</senha>
+		<usuario>MAGNABOSCO</usuario>
+		<email>valdelir@transmagnabosco.com.br</email>
+		<nome>Magnabosco Valdelir</nome>
+	</item>
+	<item id="18">
+		<senha>4811de8608ac7537adc4507179087960</senha>
+		<usuario>CRUZADO</usuario>
+		<email>ti@cruzado.com.br</email>
+		<nome>Transportes Cruzado</nome>
+	</item>
+	<item id="19">
+		<senha>92c0e3dc48027c88391373de68f3fa12</senha>
+		<usuario>GES</usuario>
+		<email>expedicaosao1@gestransportadora.com.br</email>
+		<nome>GES TRANSPORADORA</nome>
+	</item>
+	<item id="20">
+		<senha>20c8400a2b9c3634c560aa5b27e9e245</senha>
+		<usuario>SONIACOOPERCARGO</usuario>
+		<email>sonia_gacia@coopercargo.com.br</email>
+		<nome>Coopercargo Sonia TI</nome>
+	</item>
+	<item id="21">
+		<senha>37a63c7c55be06e9428791c2188e0bc2</senha>
+		<usuario>JJSUL</usuario>
+		<email>supervisor.jga@jjsul.com.br</email>
+		<nome>Gilberto</nome>
+	</item>
+	<item id="22">
+		<senha>13c1abc02b9862f06075a9842fda1b1f</senha>
+		<usuario>LEANDROTRANSBEN</usuario>
+		<email>ti@transben.com.br</email>
+		<nome>Leandro Pereira</nome>
+	</item>
+	<item id="23">
+		<senha>senha_inexistente</senha>
+		<usuario>mateusalimentos</usuario>
+		<email>sandro.prado@mateusalimentos.com.br</email>
+		<nome>Sandro Silva</nome>
+	</item>
+	<item id="24">
+		<senha>senha_inexistente</senha>
+		<usuario>luciano.cunha</usuario>
+		<email>atendimento@ultimate.com.br</email>
+		<nome>luciano cunha</nome>
+	</item>
+	<item id="25">
+		<senha>senha_inexistente</senha>
+		<usuario>fabriciolgmlog</usuario>
+		<email>fabricio@lgmlog.com.br</email>
+		<nome>Fabricio Laquanette Martins</nome>
+	</item>
+	<item id="26">
+		<senha>118a283bee47f2c1f3ec371f722514e0</senha>
+		<usuario>ESCALASOFT.ALS</usuario>
+		<email>matheus.ramos@escalasoft.com.br</email>
+		<nome>ESCALASOFT ALS</nome>
+	</item>
+	<item id="27">
+		<senha>bacf720da9bb3fc0fa4624d7b54bab4f</senha>
+		<usuario>david.nox.ti</usuario>
+		<email>david.nascimento@noxgr.com.br</email>
+		<nome>Nox TI</nome>
+	</item>
+	<item id="28">
+		<senha>79900b9df640308c8f542e9ba9e24793</senha>
+		<usuario>Prodelog</usuario>
+		<email>eduardo.david@prodelog.com.br</email>
+		<nome>Eduardo David</nome>
+	</item>
+	<item id="29">
+		<senha>6f222bed63aa2eecb9ae2f8ec83e2dd7</senha>
+		<usuario>mmsoftawares</usuario>
+		<email>comercial@mmsoftwares.com.br</email>
+		<nome>MM Softwares</nome>
+	</item>
+	<item id="30">
+		<senha>d405ab3773194d8725cf337c824a86a9</senha>
+		<usuario>sla</usuario>
+		<email>jackson@sla.inf.br</email>
+		<nome>Jackson SLA</nome>
+	</item>
+	<item id="31">
+		<senha>senha_inexistente</senha>
+		<usuario>save.logistics</usuario>
+		<email>logistica@savelogistics.com.br</email>
+		<nome>Save Logistics</nome>
+	</item>
+	<item id="32">
+		<senha>senha_inexistente</senha>
+		<usuario>nelsonheusi</usuario>
+		<email>iveneip@nelsonheusi.com</email>
+		<nome>nelson heusi</nome>
+	</item>
+	<item id="33">
+		<senha>senha_inexistente</senha>
+		<usuario>multisoftware</usuario>
+		<email>willian@multisoftware.com.br</email>
+		<nome>Willian multisoftware</nome>
+	</item>
+	<item id="34">
+		<senha>491a6b85818c0a28df2a944fed2df2a7</senha>
+		<usuario>tarcisio</usuario>
+		<email>tarcisio.michels@streamsoft.com.br</email>
+		<nome>Tarcísio Michels</nome>
+	</item>
+	<item id="35">
+		<senha>16b05b25e8c420097eae4cb4db4c471d</senha>
+		<usuario>atua</usuario>
+		<email>decio@atua.com.br</email>
+		<nome>decio atua</nome>
+	</item>
+	<item id="36">
+		<senha>2646994584ee526fff51b51c9409da71</senha>
+		<usuario>intersite</usuario>
+		<email>wilson@intersite.com.br</email>
+		<nome>Wilson Intersite</nome>
+	</item>
+	<item id="37">
+		<senha>senha_inexistente</senha>
+		<usuario>escalasoft-als-2</usuario>
+		<email>vinicius.sebold@escalasoft.com.br</email>
+		<nome>EscalaSoft ALS</nome>
+	</item>
+	<item id="38">
+		<senha>d11cd5051e11153db50999665e991a2c</senha>
+		<usuario>girotransportes</usuario>
+		<email>apoio.financeiro@girotransportes.com</email>
+		<nome>sandro giro</nome>
+	</item>
+	<item id="39">
+		<senha>e59189b3785ad80132fccb738366f3d1</senha>
+		<usuario>settor</usuario>
+		<email>lucas.degelo@settortransportes.com.br</email>
+		<nome>settor settor</nome>
+	</item>
+	<item id="40">
+		<senha>f038fd29fd190963093b971ba91093d8</senha>
+		<usuario>jjsul.ssw</usuario>
+		<email>erasmo.branoli@gmail.com</email>
+		<nome>JJSUL SSW</nome>
+	</item>
+	<item id="41">
+		<senha>c33841944a9c2cd5636d01ca2ddfc0de</senha>
+		<usuario>mhtr</usuario>
+		<email>vinicius@topti.com.br</email>
+		<nome>TOPTI TOPTI</nome>
+	</item>
+	<item id="42">
+		<senha>senha_inexistente</senha>
+		<usuario>self.logistica</usuario>
+		<email>ricardo@dss-info.com.br</email>
+		<nome>self logistica</nome>
+	</item>
+	<item id="43">
+		<senha>89af39fc89ed4acd785b56ad783c524d</senha>
+		<usuario>bergamaschi</usuario>
+		<email>david.raddi@bergamaschi.com.br</email>
+		<nome>Bergamaschi</nome>
+	</item>
+	<item id="44">
+		<senha>55da20f38e26097c9c9947cfa997cea1</senha>
+		<usuario>ouronegro</usuario>
+		<email>ezio@ouronegro.com.br</email>
+		<nome>Ouro Negro</nome>
+	</item>
+	<item id="45">
+		<senha>18d39de300644ca3e7ca89973921dbd4</senha>
+		<usuario>transcativa</usuario>
+		<email>implantacao@atua.com.br</email>
+		<nome>transcativa transcativa</nome>
+	</item>
+	<item id="46">
+		<senha>4b599c4a56c38f0369976ac895f0001b</senha>
+		<usuario>mosistemas</usuario>
+		<email>bruna@mosistemas.com</email>
+		<nome>MO sistemass</nome>
+	</item>
+	<item id="47">
+		<senha>18d39de300644ca3e7ca89973921dbd4</senha>
+		<usuario>contrans</usuario>
+		<email>anderson@paype.com.br</email>
+		<nome>contrans</nome>
+	</item>
+	<item id="48">
+		<senha>18d39de300644ca3e7ca89973921dbd4</senha>
+		<usuario>klf</usuario>
+		<email>marcelo.barros@xcelis.com.br</email>
+		<nome>KLF Transportes</nome>
+	</item>
+	<item id="49">
+		<senha>senha_inexistente</senha>
+		<usuario>brasilnovo</usuario>
+		<email>wagner.lopes@brasilnovo.com</email>
+		<nome>Brasil novo</nome>
+	</item>
+	<item id="50">
+		<senha>2272be261bc2d8e011711492e5b89ec3</senha>
+		<usuario>fretefy</usuario>
+		<email>mari.pertile@fretefy.com.br</email>
+		<nome>Marilucia Pértile</nome>
+	</item>
+	<item id="51">
+		<senha>b3169b25a26be8e44523bbb33f4bd22f</senha>
+		<usuario>alessandro.unitylogistics</usuario>
+		<email>alessandro@unitylogistics.com.br</email>
+		<nome>Alessandro Unity Logistics</nome>
+	</item>
+	<item id="52">
+		<senha>108a6bfb078853938f9b6a12dd99e627</senha>
+		<usuario>herbert.pontes</usuario>
+		<email>herbert@getsoft.com.br</email>
+		<nome>Herbert Pontes</nome>
+	</item>
+	<item id="53">
+		<senha>9e253e38c603e58d221651891c41ef8c</senha>
+		<usuario>totvs</usuario>
+		<email>elizabeth.vendruscolo@totvs.com.br</email>
+		<nome>Elizabeth TOTVS</nome>
+	</item>
+	<item id="54">
+		<senha>9f929b3867562665cf51ed2675e3b239</senha>
+		<usuario>charlie.minard</usuario>
+		<email>charlie.minard@fourkites.com</email>
+		<nome>Charlie Minard</nome>
+	</item>
+	<item id="55">
+		<senha>c61978924fc13330bb0c1c5d9b9d58dc</senha>
+		<usuario>caio.sato</usuario>
+		<email>caio@prodelog.com.br</email>
+		<nome>Caio Sato</nome>
+	</item>
+	<item id="56">
+		<senha>20cc61f0cf2ad44c4a769244696ba08e</senha>
+		<usuario>bruno.bianchin</usuario>
+		<email>bruno@bianchinaugusto.com.br</email>
+		<nome>Bruno Bianchin</nome>
+	</item>
+	<item id="57">
+		<senha>fe52d04daca6d5eb89068499b2a76583</senha>
+		<usuario>W3-SSW</usuario>
+		<email>atendimento@w3transportes.com.br</email>
+		<nome>Alessandro W3</nome>
+	</item>
+	<item id="58">
+		<senha>aa5ecfcb2f90f13b2ecc2ea24477c0e7</senha>
+		<usuario>transwar</usuario>
+		<email>comercial02@noxgr.com.br</email>
+		<nome>Comercial Trans War</nome>
+	</item>
+	<item id="59">
+		<senha>b00388166d345580c16a19293a0013a3</senha>
+		<usuario>settor-novo</usuario>
+		<email>suporteti@settortransportes.com.br</email>
+		<nome>Suporte TI SETTOR</nome>
+	</item>
+	<item id="60">
+		<senha>d02cfaa3d9c60595c7ab995d2f8b9dc4</senha>
+		<usuario>joanini</usuario>
+		<email>gr@joanini.com.br</email>
+		<nome>Joanini</nome>
+	</item>
+	<item id="61">
+		<senha>7e4b1a1daf7b4a564a050105189ac8d7</senha>
+		<usuario>cargox</usuario>
+		<email>eric.palmiero@cargox.com.br</email>
+		<nome>Eric Palmiero</nome>
+	</item>
+<item id="62"><nome>Teste do teste</nome><usuario>teste</usuario><senha>698dc19d489c4e4db73e28a713eab07b</senha><email>teste@teste</email></item></conteudo>
