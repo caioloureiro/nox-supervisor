@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conteudo>
+	<item id="home">
+		<titulo>Home</titulo>
+		<codigo>
+			<![CDATA[
+				<div class="conteudo-titulo">Bem vindo ao Nox Supervisor</div>
+				<div class="conteudo-subtitulo">Utiliários para agilizar o dia-a-dia da Operação</div>
+			]]>
+		</codigo>
+	</item>
+	<item id="emails">
+		<titulo>E-mails</titulo>
+		<codigo>
+			<![CDATA[
+				<div class="conteudo-titulo">Gerenciador de E-mail da Operação</div>
+
+				<table>
+					<thead>
+						<tr>
+							<th>E-MAIL</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>tombini01@noxgr.com.br</td>
+						</tr>
+						<tr>
+							<td>tombini2@noxgr.com.br</td>
+						</tr>
+						<tr>
+							<td>tombini03@noxgr.com.br</td>
+						</tr>
+						<tr>
+							<td>tombini04@noxgr.com.br</td>
+						</tr>
+						<tr>
+							<td>monitoramento@noxgr.com.br</td>
+						</tr>
+						<tr>
+							<td>monitoramento4@noxgr.com.br</td>
+						</tr>
+						<tr>
+							<td>atendimento@noxgr.com.br</td>
+						</tr>
+						<tr>
+							<td>tgmonitoramento@noxgr.com.br</td>
+						</tr>
+						<tr>
+							<td>monitoramento8@noxgr.com.br</td>
+						</tr>
+						<tr>
+							<td>paa@noxgr.com.br</td>
+						</tr>
+						<tr>
+							<td>agendamentos@noxgr.com.br</td>
+						</tr>
+						<tr>
+							<td>rastreamento.tombini@noxgr.com.br</td>
+						</tr>
+					</tbody>
+				</table>
+			]]>
+		</codigo>
+	</item>
+	<item id="modelos-de-documentos">
+		<titulo>Modelos de Documentos para download</titulo>
+		<codigo>
+			<![CDATA[
+				<div class="conteudo-titulo">Modelos de Documentos para download</div>
+				<div class="card">
+					<div class="card-titulo">MODELO DE ADVERTÊNCIA</div>
+					<a href="files/modelo_de_advertencia.docx"><div class="card-subtitulo">Clique aqui para download.</div></a>
+				</div>
+				<div class="card">
+					<div class="card-titulo">MODELO DE SUSPENSÃO</div>
+					<a href="files/modelo_de_suspensao.docx"><div class="card-subtitulo">Clique aqui para download.</div></a>
+				</div>
+				<div class="card">
+					<div class="card-titulo">MODELO DE TROCA E JUSTIFICATIVA DE CARTÃO PONTO</div>
+					<a href="files/modelo_de_troca_e_justificativa_de_cartao_ponto.docx"><div class="card-subtitulo">Clique aqui para download.</div></a>
+				</div>
+				<div class="card">
+					<div class="card-titulo">MODELO DE AVALIAÇÃO DE DESEMPENHO</div>
+					<a href="files/modelo_de_avaliacao_de_desempenho.doc"><div class="card-subtitulo">Clique aqui para download.</div></a>
+				</div>
+			]]>
+		</codigo>
+	</item>
+</conteudo>
